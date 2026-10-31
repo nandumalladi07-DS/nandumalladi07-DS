@@ -60,7 +60,7 @@ class NanduMalladi:
 ### 📄 Chat with your Docs
 <img src="https://img.shields.io/badge/Generative%20AI-RAG-7F5AF0?style=flat-square" />
 
-Upload PDFs and ask questions in plain English. **TF-IDF retrieval + Llama 3.3 on Groq**, with cited answers.
+Upload PDFs and ask questions in plain English. **TF-IDF retrieval + GPT-OSS 120B on Groq**, with cited answers.
 
 <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
